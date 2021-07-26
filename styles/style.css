@@ -1,0 +1,28 @@
+audio
+{
+  display: block;
+  margin: 0 auto;
+}
+
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+
+p {
+    color: white;
+    border-left: 500px solid black;
+    border-right: 500px solid black;
+  }
+  html {
+    background-color: black;
+    
+  }
+pre {
+
+color:white
+}
+
+
